@@ -1,9 +1,9 @@
+![scmshell in action](/scmshell.gif?raw=true "scmshell in action")
+
 scmshell
 ========
 
 see git and mercurial stats right at prompt
-
-![scmshell in action](/scmshell.gif?raw=true "scmshell in action")
 
 
 INSTALL
