@@ -3,6 +3,8 @@ scmshell
 
 see git and mercurial stats right at prompt
 
+![scmshell in action](/scmshell.gif?raw=true "scmshell in action")
+
 
 INSTALL
 -------
@@ -17,7 +19,7 @@ Adding only PROMPT_COMMAND will leave you with duplicated user and path output, 
 	PS1="> "
 
 
-DEPENDENCIES
+DEPENDENCIES 
 ------------
-
-only python stdlibs 
+ 
+only python stdlibs  
