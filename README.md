@@ -20,4 +20,4 @@ Adding only PROMPT_COMMAND will leave you with duplicated user and path output, 
 DEPENDENCIES
 ------------
 
-only python stdlibs
+only python stdlibs 
